@@ -1,0 +1,48 @@
+/*
+1. Element Selector
+2. Class Selector
+3. Id Selector
+*/
+
+
+h2 {
+    color: green;
+    background-color: aqua;
+}
+
+.bg-dark {
+    background-color: black;
+    /* background-color: red; */
+}
+
+.text-yellow {
+    color: yellow;
+    /* background-color: blue; */
+}
+
+.text-primary {
+    color: #bcbcbc;
+}
+
+#ozel-p-elementi {
+    color: red;
+    background-color: yellow;
+}
+
+a {
+    text-decoration: none;
+    color: #1e1c1c;
+
+}
+
+#contact-link {
+    color: #0e43d4;
+}
+
+.link {
+    color: #d90a0a;
+}
+
+a:hover {
+    color: cadetblue;
+}
